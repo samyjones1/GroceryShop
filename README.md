@@ -6,6 +6,7 @@
 ![dashboard snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/adminHomepage.png?raw=true)
 ### Customer Homepage
 ![homepage snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/customerhomepage.png?raw=true)
+![homepage snap](https://user-images.githubusercontent.com/91143865/151695815-661cfa1e-71f4-4002-9a92-8722050790ec.png)
 ### Cart
 ![cart snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/cart.png?raw=true)
 ### Track Orders
