@@ -3,7 +3,7 @@
 ---
 ## screenshots
 ### Admin Dashboard
-![dashboard snap](https://github.com/samyjones1/ecommerce/blob/master/static/screenshots/adminHomepage.png?raw=true)
+![dashboard snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/adminHomepage.png?raw=true)
 ### Customer Homepage
 ![homepage snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/customerhomepage.png?raw=true)
 ### Cart
@@ -85,10 +85,7 @@ https://myaccount.google.com/lesssecureapps
 ## Disclaimer
 This project is developed for demo purpose and it's not supposed to be used in real application.
 
-## Contributor
-- [Raxa](https://github.com/raxa217)
-
 ## Feedback
 Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
+- [Contact on Facebook](https://fb.com/usama.asif11)
+- [Subscribe my Channel MusicManA On Youtube](https://youtube.com/musicmanA)
