@@ -3,14 +3,13 @@
 ---
 ## screenshots
 ### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/adminHomepage.png?raw=true)
+![dashboard snap](https://user-images.githubusercontent.com/91143865/151695880-92953f72-4bf2-4221-86fe-c5324778d749.png)
 ### Customer Homepage
-![homepage snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/customerhomepage.png?raw=true)
 ![homepage snap](https://user-images.githubusercontent.com/91143865/151695815-661cfa1e-71f4-4002-9a92-8722050790ec.png)
 ### Cart
-![cart snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/cart.png?raw=true)
+![cart snap](https://user-images.githubusercontent.com/91143865/151695926-03994e22-252a-496f-b67f-183bcb81f727.png)
 ### Track Orders
-![orders snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/orderspage.png?raw=true)
+![orders snap](https://user-images.githubusercontent.com/91143865/151695944-fd6f8e1a-9d14-460c-8863-3bb1f980bb9c.png)
 ---
 ## FUNCTIONS
 ## Customer
