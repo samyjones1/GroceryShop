@@ -87,7 +87,7 @@ This project is developed for demo purpose and it's not supposed to be used in r
 
 ## Contributor 
 
-https://github.com/sumitkumar1503
+- [sumitkumar](https://github.com/sumitkumar1503)
 
 ## Feedback
 Any suggestion and feedback is welcome. You can message me on facebook
