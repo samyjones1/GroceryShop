@@ -1,9 +1,9 @@
 # ECOMMERCE
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sammy%20Jones-red)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Samy%20Jones-red)
 ---
 ## screenshots
 ### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/adminHomepage.png?raw=true)
+![dashboard snap](https://github.com/samyjones1/ecommerce/blob/master/static/screenshots/adminHomepage.png?raw=true)
 ### Customer Homepage
 ![homepage snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/customerhomepage.png?raw=true)
 ### Cart
